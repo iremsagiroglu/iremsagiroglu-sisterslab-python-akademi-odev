@@ -98,4 +98,3 @@ yil                                YIL
 halk                               HALK
 ziyaret                            ZIYARET
 sonra                              SONRA
-ve                     VE          VE                     VE
